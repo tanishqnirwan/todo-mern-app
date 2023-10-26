@@ -87,6 +87,12 @@ To set up and run the To-Do List Application locally or deploy it on your server
      npm install
      ```
 
+ - Start the react frontend:
+
+     ```bash
+     npm start
+     ```    
+
 4. **Environment Variables**:
    - Create your own `.env` file in the `todo-backend` directory and set the following environment variables for local running:
 
